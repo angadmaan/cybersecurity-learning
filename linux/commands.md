@@ -1,13 +1,13 @@
 # Basic Linux Commands
 
-pwd – show current directory
+- pwd – show current directory
 
-ls – list files
+- ls – list files
 
-cd – change directory
+- cd – change directory
 
-mkdir – create directory
+- mkdir – create directory
 
-rm – remove files
+- rm – remove files
 
-touch – create empty file
+- touch – create empty file
