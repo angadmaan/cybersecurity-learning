@@ -1,12 +1,12 @@
 # Cybersecurity Learning
 
-This repository contains my notes and practice while learning cybersecurity.
+This repository documents my journey while learning cybersecurity.
 
-Topics I am currently studying:
-
+## Topics Covered
 - Computer Networking
 - Linux Fundamentals
 - TryHackMe Labs
 - Cybersecurity Basics
 
-Goal: Build strong fundamentals and practical cybersecurity skills while pursuing my B.Tech in Computer Science.
+## Goal
+Build strong cybersecurity fundamentals and develop practical security skills while pursuing my B.Tech in Computer Science.
