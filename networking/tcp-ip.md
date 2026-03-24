@@ -55,3 +55,19 @@ Purpose: Handles physical transmission of data.
 ## Simple Data Flow
 
 Application → Transport → Internet → Network Access → Network
+
+## Diffrence b/w OSI and TCP/IP Model :-
+
+- Layers vs. Practicality  
+The OSI model consists of 7 layers, which makes it great for teaching and fixing specific hardware problems. The TCP/IP model has 4 layers, focusing on efficiency and speed instead of strict separation.  
+
+- History and Development  
+TCP/IP was developed first; the protocols came first, and the model was created to describe them. OSI followed a different path—the model was created first as a set of standards, then protocols were built to fit those standards.  
+
+- Vertical Integration  
+In the OSI model, the Session and Presentation layers are separate. In the TCP/IP model, these functions are all part of the Application layer. This is why network engineers often mention "Layer 7" (Application) when discussing web traffic, even if they are actually on a TCP/IP network.  
+
+- Reliable vs. Best-Effort  
+The OSI model strictly uses connection-oriented methods at the network layer. In contrast, the TCP/IP model supports both connection-oriented (TCP) and "best-effort" connectionless (UDP) communication, making it more flexible for things like live video streaming.
+
+
