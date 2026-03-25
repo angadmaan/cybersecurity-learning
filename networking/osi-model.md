@@ -37,4 +37,13 @@ The OSI model helps understand how data travels across a network.
 - Supports points-to-point as well as broadcast communication.
 - Supports simplex, half-duplex or full-duplex communication.
 
+### Network Layer
+- Implements routing of frames (packets) through the network.
+- Defines the most optimum path the packet should take from the source to the destination
+- Defines logical addressing so that any endpoint can be identified. 
+- Handles congestion in the network.
+- Facilitates interconnection between heterogeneous networks (Internetworking).
+- The network layer also defines how to fragment a packet into smaller packets to accommodate different media.
+
+
 
