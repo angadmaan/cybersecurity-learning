@@ -22,3 +22,19 @@ The OSI model helps understand how data travels across a network.
 - The upper four layers of the OSI model (application, presentation and session—Layers 7, 6 and 5) are orientated more toward services to the applications. 
 - Data is Encapsulated with the necessary protocol information as it moves down the layers before network transit.
 
+### Physical Layer 
+- Provides physical interface for transmission of information.
+- Defines rules by which bits are passed from one system to another on a physical communication medium.
+- Covers all - mechanical, electrical, functional and procedural - aspects for physical communication.
+- Such characteristics as voltage levels, timing of voltage changes, physical data rates, maximum transmission distances, physical connectors, and other similar attributes are defined by physical layer specifications. 
+
+### Data Link Layer
+- Data link layer attempts to provide reliable communication over the physical layer interface. 
+- Breaks the outgoing data into frames and reassemble the received frames.
+- Create and detect frame boundaries.
+- Handle errors by implementing an acknowledgement and retransmission scheme.
+- Implement flow control.
+- Supports points-to-point as well as broadcast communication.
+- Supports simplex, half-duplex or full-duplex communication.
+
+
