@@ -1,4 +1,4 @@
-# OSI Model
+# OSI MODEL 
 
 The OSI model has 7 layers.
 
@@ -44,6 +44,40 @@ The OSI model helps understand how data travels across a network.
 - Handles congestion in the network.
 - Facilitates interconnection between heterogeneous networks (Internetworking).
 - The network layer also defines how to fragment a packet into smaller packets to accommodate different media.
+
+### Transport Layer
+- Purpose of this layer is to provide a reliable mechanism for the exchange of data between two processes in different computers. 
+- Ensures that the data units are delivered error free.
+- Ensures that data units are delivered in sequence.
+- Ensures that there is no loss or duplication of data units.
+- Provides connectionless or connection oriented service.
+- Provides for the connection management.
+- Multiplex  multiple connection over a single channel.
+
+### Session Layer
+- Session layer provides mechanism for controlling the dialogue between the two end systems. It defines how to start, control and end conversations (called sessions) between applications.
+- This layer requests for a logical connection to be established on an end-user’s request.
+- Any necessary log-on or password validation is also handled by this layer.
+- Session layer is also responsible for terminating the connection.
+- This layer provides services like dialogue discipline which can be full duplex or half duplex.
+- Session layer can also provide check-pointing mechanism such that if a failure of some sort occurs between checkpoints, all data can be retransmitted from the last checkpoint.
+
+### Presentation Layer
+- Presentation layer defines the format in which the data is to be exchanged between the two communicating entities. 
+- Also handles data compression and data encryption (cryptography).
+
+### Application Layer 
+- Application layer interacts with application programs and is the highest level of OSI model.
+- Application layer contains management functions to support distributed applications.
+- Examples of application layer are applications such as file transfer, electronic mail, remote login etc.
+
+## OSI in Action
+- A message begins at the top application layer and moves down the OSI layers to the bottom physical layer. 
+- As the message descends, each successive OSI model layer adds a header to it. 
+- A header is layer-specific information that basically explains what functions the layer carried out. 
+- Conversely, at the receiving end, headers are striped from the message as it travels up the corresponding layers.
+
+
 
 
 
