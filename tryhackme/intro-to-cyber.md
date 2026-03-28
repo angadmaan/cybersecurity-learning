@@ -6,7 +6,7 @@ Professionals in this field simulate real-world attacks to identify weaknesses i
 
 Common roles:
 - Penetration Tester
-- Ethical Hacker
+- Ethical Hackers
 - Red Team Analyst
 
 Goal: Discover and report security flaws so organizations can fix them.
