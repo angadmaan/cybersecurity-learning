@@ -9,7 +9,7 @@ Common roles:
 - Ethical Hackers
 - Red Team Analyst
 
-Goal: Discover and report security flaws so organizations can fix them.
+Goal: To Discover and report security flaws so organizations can fix them.
 
 ---
 
