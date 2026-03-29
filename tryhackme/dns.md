@@ -31,10 +31,10 @@ When a user enters a domain name in the browser:
 ## Common DNS Record Types
 
 ### A Record
-Maps a domain name to an IPv4 address.
+Maps a domain name to an IPv4 address
 
 Example:
-example.com → 93.184.216.34
+tryhackme.com → 93.184.216.34
 
 ### AAAA Record
 Maps a domain name to an IPv6 address.
