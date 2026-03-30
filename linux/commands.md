@@ -82,7 +82,7 @@ id
 
 
 ## which
-Shows the location of a command.
+Shows the location of command.
 
 Example:
 which python
