@@ -52,7 +52,7 @@ HTTP/1.1 200 OK
 
 ---
 
-## Common HTTP Methods
+## Common HTTP Method
 
 GET  
 Used to request data from a server.
@@ -68,7 +68,7 @@ Used to remove data from the server.
 
 ---
 
-## Common HTTP Status Codes
+## Common HTTP Status Code
 
 200 – Request successful
 
