@@ -1,7 +1,7 @@
 # Linux File Permission Commands
 
 ## chmod
-Used to change file permissions.
+Used to change file permission.
 
 Example:
 chmod 755 file.txt
