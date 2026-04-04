@@ -1,7 +1,7 @@
 ## What is HTTP
 HTTP (HyperText Transfer Protocol) is a protocol used for communication between a web browser and a web server.
 
-When a user visits a website, the browser sends an HTTP request to the server and the server sends back an HTTP response.
+When a user visit a website, the browser sends an HTTP request to the server and the server sends back an HTTP response.
 
 Example:
 Browser → HTTP Request → Web Server  
