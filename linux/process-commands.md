@@ -15,7 +15,7 @@ top
 
 
 ## kill
-Terminates a running process using its process ID (PID).
+Terminate a running process using its process ID (PID).
 
 Example:
 kill 1234
