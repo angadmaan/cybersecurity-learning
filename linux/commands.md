@@ -1,7 +1,7 @@
 # Basic Linux Commands
 
 ## pwd 
-show current directory
+shows current directory
 
 ## ls 
 list files
