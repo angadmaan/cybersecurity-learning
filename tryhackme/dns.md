@@ -1,7 +1,7 @@
 # TryHackMe – DNS Room
 
 ## What is DNS
-DNS (Domain Name System) is a system that translates human-readable domain names into IP addresses.  
+DNS (Domain Name System) is a system that translate human-readable domain names into IP addresses.  
 Computers communicate using IP addresses, but humans use domain names like google.com. DNS connects the two.
 
 Example:
