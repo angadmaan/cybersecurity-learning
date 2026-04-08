@@ -152,5 +152,5 @@ Protects sensitive information such as:
 
 It prevents attacks like:
 
-- Man-in-the-Middle attacks
+- Man-in-the-Middle attack
 - Data interception
