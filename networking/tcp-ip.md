@@ -4,7 +4,7 @@ The TCP/IP model is a networking model used to understand how data travels acros
 
 It has **4 layers**.
 
-## Layers of TCP/IP Model
+## Layers of TCP/IP Model are:
 
 ### 4) Application Layer
 Responsible for communication between applications and the network.
