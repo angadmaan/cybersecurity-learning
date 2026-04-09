@@ -36,7 +36,7 @@ Shows file permissions, owner, and group details.
 Example:
 ls -l
 
-Output example:
+Output examples:
 -rwxr-xr-- 1 user group file.txt
 
 ---
