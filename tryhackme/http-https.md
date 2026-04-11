@@ -107,7 +107,7 @@ GET /index.html HTTPS/1.1
 
 ## HTTPS Response
 
-The server sends an encrypted response back to the browser.
+The server send an encrypted response back to the browser.
 
 The data is protected during transmission so attackers cannot easily read or modify it.
 
