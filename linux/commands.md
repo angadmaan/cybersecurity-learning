@@ -26,7 +26,7 @@ wc file.txt
 
 
 ## sort
-Sorts lines in a file alphabetically.
+Sort lines in a file alphabetically.
 
 Example:
 sort file.txt
