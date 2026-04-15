@@ -17,7 +17,7 @@ It uses encryption through SSL/TLS to protect data during communication between 
 Example:
 https://github.com
 
-HTTPS prevents attackers from intercepting or modifying data.
+HTTPS prevents attacker from intercepting or modifying data.
 
 ---
 
