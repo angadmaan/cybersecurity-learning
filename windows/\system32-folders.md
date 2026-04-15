@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-The **System32** folder is one of the most critical directorie in the Windows operating system. It contains essential system files, drivers, libraries, and executable programs required for Windows to function properly.
+The **System32** folder is one of the most critical directorie in the Windows operating system. It contains essential system files, drivers, library, and executable programs required for Windows to function properly.
 
 The folder is typically located at:
 C:\Windows\System32
