@@ -8,7 +8,7 @@ Task Manager allows users to monitor all running processes on a Windows system. 
 
 * Unknown or unfamiliar process names
 * High CPU or GPU usage from background applications
-* Unexpected disk activity
+* Unexpected disk activities
 * Unusual network usage
 * Processes running from suspicious directories such as Temp folders
 
