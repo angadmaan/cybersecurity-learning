@@ -46,7 +46,7 @@ Example:
 www.example.com → example.com
 
 ### MX Record
-Specifies the mail server responsible for receiving emails.
+Specify the mail server responsible for receiving emails.
 
 ### TXT Record
 Stores text information used for verification and security.
