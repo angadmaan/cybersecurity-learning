@@ -20,7 +20,7 @@ svchost.exe
 Malicious disguise example:
 svch0st.exe
 
-Attackers often create processes with names similar to legitimate Windows processes to avoid detection.
+Attacker often create processes with names similar to legitimate Windows processes to avoid detection.
 
 ---
 
