@@ -10,8 +10,8 @@ It has **4 layers**.
 Responsible for communication between applications and the network.
 
 Examples:
-- HTTPS
 - HTTP
+- HTTPS
 - FTP
 - DNS
 - SMTP
