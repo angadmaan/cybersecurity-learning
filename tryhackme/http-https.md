@@ -27,8 +27,8 @@ An HTTP request is sent from the client (browser) to the server.
 
 A request usually contains:
 - Request Method
-- Headers
 - URL
+- Headers
 - Body (optional)
 
 Example request line:
