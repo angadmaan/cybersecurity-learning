@@ -1,4 +1,4 @@
-# Linux File Permission Commands
+# Linux File Permission Command
 
 ## chmod
 Used to change file permission.
