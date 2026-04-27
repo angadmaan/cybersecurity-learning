@@ -27,4 +27,3 @@ Interactive process viewer (similar to top but user friendly).
 Example:
 htop
 
-## k
