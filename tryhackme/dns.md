@@ -54,7 +54,7 @@ Stores text information used for verification and security.
 ---
 
 ## DNS in Cybersecurity
-Attackers often gather DNS information during reconnaissance to discover subdomains and network structure.
+Attackers often gather DNS information during reconnaissance to discover subdomain and network structure.
 
 Tools like **dig**, **nslookup**, and **whois** can be used to query DNS records.
 
