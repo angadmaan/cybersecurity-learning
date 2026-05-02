@@ -9,6 +9,7 @@ Server → HTTP Response → Browser
 
 ---
 
+
 ## What is HTTPS
 HTTPS (HyperText Transfer Protocol Secure) is the secure version of HTTP.
 
