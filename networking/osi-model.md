@@ -8,7 +8,8 @@ The OSI model has 7 layers.
 -  4 (Transport)  
 -  3 (Network)  
 -  2 (Data Link)
--  1 (Physical)  
+-  1 (Physical)
+  
 
 ## Purpose
 The OSI model helps understand that how data travel across a network.
