@@ -9,7 +9,6 @@ Server → HTTP Response → Browser
 
 ---
 
-
 ## What is HTTPS
 HTTPS (HyperText Transfer Protocol Secure) is the secure version of HTTP.
 
@@ -130,7 +129,6 @@ The server proves its identity using a digital certificate.
 Data Integrity  
 Ensures that the data is not modified during transmission.
 
-
 ---
 
 ## SSL/TLS
@@ -138,7 +136,6 @@ Ensures that the data is not modified during transmission.
 HTTPS uses SSL (Secure Sockets Layer) or TLS (Transport Layer Security) protocols to secure communication between the client and server.
 
 TLS is the modern and more secure version.
-
 
 ---
 
