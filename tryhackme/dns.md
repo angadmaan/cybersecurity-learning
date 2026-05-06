@@ -46,9 +46,7 @@ Example:
 www.example.com → example.com
 
 ### MX Record
-Specify the mail server responsible for receiving emails./http-https.md
-angadmaan
-angadmaan
+Specify the mail server responsible for receiving emails.
 
 
 ### TXT Record
