@@ -21,6 +21,7 @@ Example:
 kill 1234
 
 
+
 ## htop
 Interactive process viewer (similar to top but user friendly).
 
