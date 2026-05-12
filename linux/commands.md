@@ -40,7 +40,7 @@ uniq file.txt
 
 
 ## diff
-Compares two files and shows differences.
+Compares two files and shows difference.
 
 Example:
 diff file1.txt file2.txt
