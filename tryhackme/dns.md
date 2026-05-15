@@ -51,8 +51,6 @@ Specify the mail server responsible for receiving emails.
 ### TXT Record
 Stores text information used for verification and security.
 
----
-
 ## DNS in Cybersecurity
 Attackers often gather DNS information during reconnaissance to discover subdomains and network structure.
 
