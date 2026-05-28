@@ -26,6 +26,7 @@ When a user enters a domain name in the browser:
 5. Finally it reaches the authoritative DNS server.
 6. The IP address is returned to the browser.
 
+
 ## Common DNS Record Type
 
 ### A Record
