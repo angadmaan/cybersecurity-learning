@@ -14,4 +14,5 @@ Build strong cybersecurity fundamentals and develop practical security skills wh
 ## Repository Structure
 - linux/ – Linux commands
 - networking/ – Networking concepts  
-- tryhackme/ – Notes from TryHackMe rooms  
+- tryhackme/ – Notes from TryHackMe rooms
+- winndows/ - Practical work on Windows
