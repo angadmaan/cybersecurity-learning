@@ -15,4 +15,4 @@ Build strong cybersecurity fundamentals and develop practical security skills wh
 - linux/ – Linux commands
 - networking/ – Networking concepts  
 - tryhackme/ – Notes from TryHackMe rooms
-- winndows/ - Practical work on Windows
+- windows/ - Practical work on Windows
