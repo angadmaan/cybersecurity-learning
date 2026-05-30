@@ -6,7 +6,6 @@ Displays currently running processes.
 Example:
 ps
 
-
 ## top
 Shows real-time system processes and resource usage.
 
