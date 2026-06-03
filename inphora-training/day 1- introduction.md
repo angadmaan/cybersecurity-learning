@@ -50,7 +50,7 @@ Ensures that systems and data remain accessible when needed.
 ---
 
 ## Identity and Access Management (IAM)
-Identity and Access Management is the process of managing user identities and controlling access to systems and resources.
+Identity and Access Management is the process of managing user identitiy and controlling access to systems and resources.
 
 It helps organizations:
 - authenticate users
