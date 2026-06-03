@@ -1,1 +1,58 @@
+# Day-1
 
+## Topics Covered
+
+- Cyberspace
+- Ethical Hacking
+- Penetration Testing
+- CIA Triad
+- Identity and Access Management (IAM)
+
+---
+
+## Cyberspace
+Cyberspace refers to the digital environment where communication, networks, software, and data exist and interact through the internet and computer systems.
+
+---
+
+## Ethical Hacking
+Ethical hacking is the **legal** process of testing systems and networks to identify security vulnerabilities before malicious attackers can exploit them.
+
+Goal:
+- Improve security
+- Find vulnerabilities
+- Protect systems
+
+---
+
+## Penetration Testing
+Penetration testing is a controlled security assessment used to simulate cyberattacks on systems or applications.It is generally done in two ways: 
+
+### Legal Penetration Testing
+Performed with proper authorization and permission.
+
+### Illegal Penetration Testing
+Unauthorized attempts to attack or access systems are illegal and considered cybercrime.
+
+---
+
+## CIA Triad
+
+### Confidentiality
+Ensures that sensitive information is accessible only to authorized users.
+
+### Integrity
+Ensures that data is accurate and not modified without authorization.
+
+### Availability
+Ensures that systems and data remain accessible when needed.
+
+---
+
+## Identity and Access Management (IAM)
+IAM is the process of managing user identities and controlling access to systems and resources.
+
+It helps organizations:
+- authenticate users
+- authorize access
+- protect sensitive information
