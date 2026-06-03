@@ -116,6 +116,7 @@ Goal:
 
 ### Zero-Day Exploit
 A zero-day exploit targets a software vulnerability before the developer releases a fix or patch. These attacks are dangerous because no protection is available initially.
-A zero-day exploit targets a software vulnerability before the developer releases a fix or patch.
 
-These attacks are dangerous because no protection is available initially.
+Goal:
+- Exploit new vulnerability
+- No time given to fix
