@@ -1,6 +1,6 @@
 # Day-1
 
-## Topics Covered
+## Topics Covered:
 
 - Cyberspace
 - Ethical Hacking
