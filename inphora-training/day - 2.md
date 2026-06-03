@@ -6,7 +6,7 @@
 - Threats
 - Phishing
 - Malware
-- DDoS Attack
+- DDoS Attacks
 - Brute Force Attack
 - Social Engineering
 - Man-in-the-Middle Attack
