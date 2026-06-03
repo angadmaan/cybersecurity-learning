@@ -16,3 +16,4 @@ Build strong cybersecurity fundamentals and develop practical security skills wh
 - networking/ – Networking concepts  
 - tryhackme/ – Notes from TryHackMe rooms
 - windows/ - Practical work on Windows
+- inphora-training/ - Offline training 
