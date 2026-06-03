@@ -1,4 +1,4 @@
-# Inphora Cybersecurity Training – Day 2
+# Day 2
 
 ## Topics Covered
 
