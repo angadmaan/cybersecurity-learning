@@ -8,7 +8,7 @@ The folder is typically located at:
 C:\Windows\System32
 
 
-Many core Windows utilities and processes rely on files stored in this directory. Because of its importance, the System32 folder is frequently targeted during cybersecurity attacks.
+Many core Windows utilities and processes rely on file stored in this directory. Because of its importance, the System32 folder is frequently targeted during cybersecurity attacks.
 
 ---
 
