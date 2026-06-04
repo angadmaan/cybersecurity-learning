@@ -16,7 +16,7 @@
 A VPN creates a secure and encrypted connection between a user and the internet.
 
 Goal:
-Protect privacy and secure data transmission.
+Protect privacy and secures data transmission.
 
 ---
 
