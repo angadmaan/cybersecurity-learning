@@ -1,88 +1,96 @@
-# Dynamic Host Configuration Protocol (DHCP)
+# Network Topologies
 
 ## Introduction
 
-DHCP automatically assigns IP addresses to devices on a network.
+A network topology describes how devices are connected within a network.
 
-Without DHCP, administrators would need to manually configure every device.
-
----
-
-## Purpose of DHCP
-
-DHCP helps:
-
-- Assign IP addresses
-- Assign subnet masks
-- Assign default gateways
-- Assign DNS servers
+Different topologies offer different advantages and disadvantages.
 
 ---
 
-## DHCP Process (DORA)
+## Bus Topology
 
-### Discover
+All devices share a single communication cable.
 
-The client broadcasts a request looking for a DHCP server.
+### Advantages
 
-### Offer
+- Low cost
+- Easy setup
 
-The DHCP server offers an available IP address.
+### Disadvantages
 
-### Request
-
-The client requests the offered address.
-
-### Acknowledge
-
-The server confirms and assigns the address.
+- Single point of failure
+- Difficult troubleshooting
 
 ---
 
-## Dynamic vs Static IP
+## Star Topology
 
-### Dynamic IP
+All devices connect to a central switch or hub.
 
-Assigned automatically by DHCP.
-
-Advantages:
+### Advantages
 
 - Easy management
-- Reduces configuration errors
+- Easy troubleshooting
+- Widely used
+
+### Disadvantages
+
+- Central device failure affects the network
 
 ---
 
-### Static IP
+## Ring Topology
 
-Assigned manually.
+Devices form a circular connection.
 
-Commonly used for:
+### Advantages
 
-- Servers
-- Printers
-- Network devices
+- Predictable performance
 
----
+### Disadvantages
 
-## Benefits of DHCP
-
-- Saves time
-- Simplifies management
-- Reduces errors
-- Supports large networks
+- Failure can affect communication
 
 ---
 
-## Importance in Cybersecurity
+## Mesh Topology
 
-Administrators monitor DHCP logs to:
+Devices connect directly to multiple devices.
 
-- Identify devices
-- Track network activity
-- Detect unauthorized systems
+### Advantages
+
+- High reliability
+- Redundancy
+
+### Disadvantages
+
+- Expensive
+- Complex
+
+---
+
+## Tree Topology
+
+Hierarchical structure combining multiple star networks.
+
+### Advantages
+
+- Scalable
+- Organized structure
+
+### Disadvantages
+
+- Complex management
+
+---
+
+## Most Common Topology
+
+Modern LANs primarily use Star Topology.
 
 ---
 
 ## Key Learning
 
-DHCP automatically provides network settings to devices using the DORA process.
+Network topology affects performance, reliability, scalability, and maintenance.
