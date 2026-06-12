@@ -10,7 +10,7 @@ The objective of this session was to understand how phishing attacks work, how a
 
 Phishing is one of the most common cyberattacks used to steal sensitive information from users. Attackers often create fake websites, emails, or login pages that closely resemble legitimate services in order to trick victims into revealing credentials or personal information.
 
-During this training session, I studied the concepts behind phishing attacks and explored how cybersecurity professionals analyze these threat from a defensive perspective.
+During this training session, I studied the concepts behind phishing attacks and explored how cybersecurity professionals analyze these threats from a defensive perspective.
 
 ---
 
