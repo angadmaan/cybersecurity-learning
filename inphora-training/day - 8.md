@@ -16,7 +16,7 @@ During this training session, I studied the concepts behind phishing attacks and
 
 ## Topics Learned
 
-### Phishing Attacks
+### Phishing Attack
 
 Phishing is a form of cybercrime where attackers impersonate trusted entities to obtain confidential information.
 
