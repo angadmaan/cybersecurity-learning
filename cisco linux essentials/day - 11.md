@@ -1,4 +1,4 @@
-# Day 11 – Linux Essentials (File Management & Globbing)
+# Day 11
 
 ## Overview
 
