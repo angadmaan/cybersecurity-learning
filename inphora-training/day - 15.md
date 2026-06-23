@@ -59,7 +59,6 @@ This exercise helped me understand the importance of:
 
 * Web Application Firewalls (WAFs)
 * Rate Limiting
-* Reverse Proxies
 * Load Balancing
 * Connection Timeout Policies
 * Intrusion Detection and Monitoring
