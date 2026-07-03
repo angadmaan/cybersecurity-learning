@@ -9,7 +9,7 @@ This simulation put me in the role of an Identity and Access Management (IAM)
 developer at TCS, tasked with strengthening TechCorp Enterprises' security 
 posture. IAM is the layer that decides who gets access to what — get it wrong 
 and you've either locked out legitimate users or left a door open for 
-attackers.
+attacker.
 
 ## What I did
 
