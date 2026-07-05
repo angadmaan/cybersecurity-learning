@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-Today, I continued strengthening my practical web application security skills by working on **PortSwigger Web Security Academy** labs using **Burp Suite**. I created my PortSwigger account, launched the embedded browser from Burp Suite, and solved multiple hands-on labs focused on **OAuth Authentication**. These labs helped me understand how authentication mechanisms work and how attackers may exploit misconfigurations.
+Today, I continued strengthening my practical web application security skills by working on **PortSwigger Web Security Academy** labs using **Burp Suite**. I created my PortSwigger account, launched the embedded browser from Burp Suite, and solved multiple hands-on labs focused on **OAuth Authentication**.
 
 ---
 
