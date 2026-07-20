@@ -129,7 +129,6 @@ The certificate of completion is included in this repository.
 
 - Google Foundations of Cybersecurity (Coursera)
 - NIST Cybersecurity Framework (CSF)
-- NIST Risk Management Framework (RMF)
 - OWASP Foundation
 - CIS Controls
 
