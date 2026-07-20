@@ -178,6 +178,14 @@ Examples include:
 Maintaining availability minimizes downtime and supports business continuity.
 
 ---
+```mermaid
+graph TD
+    CIA[CIA Triad]
+    CIA --> C[Confidentiality]
+    CIA --> I[Integrity]
+    CIA --> A[Availability]
+```
+---
 
 # Security Controls
 
