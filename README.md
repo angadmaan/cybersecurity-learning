@@ -48,6 +48,7 @@ this repo is where that build-up actually happens.
 | 🏢 [`inphora-training/`](./inphora-training) | Notes from a 45-day intensive cybersecurity training program |
 | 📘 [`cisco-linux-essentials/`](./cisco-linux-essentials) | Core Linux concepts from Cisco Networking Academy coursework |
 | 🕵️ [`forage-simulations/`](./forage-simulations) | Write-ups from real-world job simulations (see below) |
+| 📚 [`Google-Cybersecurity-Professional`](./Google-Cybersecurity-Professional) | Google Cybersecurity Certification Course Writeups
 
 ---
 
