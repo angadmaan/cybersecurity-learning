@@ -5,7 +5,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/angadmaan/cybersecurity-learning?style=for-the-badge)
+
 
 ---
 
