@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Network%20Security-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Security-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Platform-TryHackMe-red?style=flat-square" />
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-informational?style=flat-square" />
 </p>
