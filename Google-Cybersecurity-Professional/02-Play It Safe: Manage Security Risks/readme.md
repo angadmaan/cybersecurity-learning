@@ -153,4 +153,4 @@ If you're also studying cybersecurity, I hope these notes help you understand th
 
 ---
 
-⭐ If you found this repository helpful, consider giving it a star.
+⭐ If you found this repository helpful, please consider giving it a star.
