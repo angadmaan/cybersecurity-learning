@@ -103,7 +103,6 @@ Google-Foundations-of-Cybersecurity/
 ├── Module-2-The-Evolution-of-Cybersecurity.md
 ├── Module-3-Protect-Against-Threats-Risks-and-Vulnerabilities.md
 ├── Module-4-Cybersecurity-Tools-and-Programming-Languages.md
-├── Professional-Statement.md
 ├── Certificate.pdf
 ```
 
