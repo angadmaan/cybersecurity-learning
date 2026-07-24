@@ -1,4 +1,4 @@
-# Professional Statement
+# Personal Reflection
 
 I am a Computer Science student with a growing interest in cybersecurity and a strong desire to build practical skills through continuous learning. I enjoy understanding how systems work, identifying security weaknesses, and learning how organizations protect their data and digital infrastructure from cyber threats.
 
